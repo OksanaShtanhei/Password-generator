@@ -1,0 +1,14 @@
+body{
+  background:repeating-radial-gradient(circle farthest-side at center center, rgb(255, 255, 255) 0%, rgb(185, 212, 243) 10%);
+}
+
+.App {
+  margin: 30vh 35vw;
+  background: white;
+  padding: 25px;
+  text-align: center;
+  font-size: larger;
+  border-radius: 20px;
+}
+
+
